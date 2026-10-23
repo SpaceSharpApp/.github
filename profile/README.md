@@ -36,7 +36,7 @@ Windows 10 and 11 today, as a portable exe, a one-click installer that updates i
 | | |
 |---|---|
 | [**SpaceSharp**](https://github.com/SpaceSharpApp/SpaceSharp) | The app: source, [releases](https://github.com/SpaceSharpApp/SpaceSharp/releases), [changelog](https://github.com/SpaceSharpApp/SpaceSharp/blob/main/CHANGELOG.md), [issues](https://github.com/SpaceSharpApp/SpaceSharp/issues) |
-| [spacesharp.app](https://spacesharp.app/) | The website, with a map you can try in the browser |
+| [spacesharp.app](https://spacesharp.app/) | The website: what it does, screenshots and downloads |
 | [CONTRIBUTING](https://github.com/SpaceSharpApp/SpaceSharp/blob/main/CONTRIBUTING.md) · [DEVELOPING](https://github.com/SpaceSharpApp/SpaceSharp/blob/main/DEVELOPING.md) | How to report a bug, send a change, and build the app |
 | [SECURITY](https://github.com/SpaceSharpApp/SpaceSharp/blob/main/SECURITY.md) | What the app reads, writes and deletes, and how to report a vulnerability |
 
